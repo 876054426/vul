@@ -1,11 +1,11 @@
-```
+
 ## Wordpress Plugin Good LMS 2.1.4 - 'id' Unauthenticated SQL Injection
 ## Software Link: https://codecanyon.net/item/good-lms-learning-management-system-wp-plugin/9033850
 ## Version: <= 2.1.4
 ## Tested on: linux/apache
 ## Vulnerability Type :SQL Injection
 
-```
+
 
 
 ```
