@@ -4,7 +4,7 @@
 ## Software Link: https://github.com/ChurchCRM/CRM 
 
 ## Vulnerability Type :
-SQL Injection
+XSS
 
 
 ## Vulnerability Version :
