@@ -8,10 +8,9 @@
 
 
 
-```
+
 Unauthenticated SQL Injection in Good Layers LMS Plugin <= 2.1.4
 
-```
 
 
 ```
@@ -19,11 +18,11 @@ Plugin URL: https://codecanyon.net/item/good-lms-learning-management-system-wp-p
 ```
 
  
+## Vulnerability Description AND recurrence:
 
-```
 Following is the vulnerable code in file "goodlayers-lms/include/lightbox-form.php" from line 682 to 701
 
-
+```
 add_action( 'wp_ajax_gdlr_lms_cancel_booking', 'gdlr_lms_cancel_booking' );
 add_action( 'wp_ajax_nopriv_gdlr_lms_cancel_booking', 'gdlr_lms_cancel_booking' );
 function gdlr_lms_cancel_booking(){
@@ -44,11 +43,11 @@ $wpdb->delete( $wpdb->prefix . 'gdlrpayment', array('id'=>$_POST['id']), array('
 }
 die("");
 }
+```
 
 
 
 Line 682 means that function "gdlr_lms_cancel_booking" can be called using "/wp-admin/admin-ajax.php" by having any low privileged account such as subscriber or contributor. However the "nopriv" in line 683 means that the same function "gdlr_lms_cancel_booking" can also be called as an unauthenticated user. Following URL means that an attacker is already inside function "gdlr_lms_cancel_booking".
-```
 
  
 
@@ -58,9 +57,9 @@ http://www.example.com/wp-admin/admin-ajax.php?action=gdlr_lms_cancel_booking
 
  
 
-```
+
 SQL Injection on line 688 is pretty simple to understand that an arbitrary user input in POST Request is sent straight into the MySQL Query as variable "id"
-```
+
 
  
 
