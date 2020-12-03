@@ -1,7 +1,7 @@
-#ChurchCRM 4.2.1- Persistent Cross Site Scripting(XSS)
+# ChurchCRM 4.2.1- Persistent Cross Site Scripting(XSS)
 
-##Vendor Homepage: https://churchcrm.io/
-##Software Link: https://github.com/ChurchCRM/CRM
+## Vendor Homepage: https://churchcrm.io/
+## Software Link: https://github.com/ChurchCRM/CRM 
 
 ## Vulnerability Type :
 SQL Injection
