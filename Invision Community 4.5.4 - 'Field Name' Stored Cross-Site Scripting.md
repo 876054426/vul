@@ -1,4 +1,4 @@
-# Exploit Title: Invision Community 4.5.4 - 'Field Name' Stored Cross-Site Scripting
+# Invision Community 4.5.4 - 'Field Name' Stored Cross-Site Scripting
 ## Exploit Author: Hemant Patidar (HemantSolo)
 ## Vendor Homepage: https://invisioncommunity.com/
 ## Software Link: https://invisioncommunity.com/buy
