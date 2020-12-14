@@ -49,5 +49,4 @@ Accept-Encoding: gzip
 ref_no=123
 ```
 
-![image-20201214102736371](https://gitee.com/godzeo/blogimg/raw/master/img/20201214102736.png)
-
+![image](https://user-images.githubusercontent.com/38218756/102035475-67a6c380-3dfb-11eb-9b7d-d2c5f6247461.png)
