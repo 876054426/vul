@@ -2,8 +2,8 @@
 ## Exploit Author: Zhaiyi (Zeo)
 ## Date: 2020-12-11
 ## Google Dork: N/A
-## Vendor Homepage: https://www.sourcecodester.com/php/14615/task-management-system-using-phpmysqli-source-code.html
-## Software Link: https://www.sourcecodester.com/download-code?nid=14615&title=Task+Management+System+using+PHP%2FMySQLi+with+Source+Code
+## Vendor Homepage: https://www.sourcecodester.com/php/14611/courier-management-system-using-phpmysqli-source-code.html
+## Software Link: https://www.sourcecodester.com/download-code?nid=14611&title=Courier+Management+System+using+PHP%2FMySQLi+with+Source+Code
 ## Affected Version: Version 1
 ## Category: Web Application
 
