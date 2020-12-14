@@ -1,4 +1,4 @@
-# c
+# Exploit Title: Courier Management System 1.0 - 'ref_no' SQL Injection.md
 # Exploit Author: Zhaiyi (Zeo)
 # Date: 2020-12-11
 # Vendor Homepage: https://www.sourcecodester.com/php/14615/task-management-system-using-phpmysqli-source-code.html
